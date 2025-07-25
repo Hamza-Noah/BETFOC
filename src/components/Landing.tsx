@@ -1,6 +1,6 @@
 const Landing = () => {
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-8 bg-[#f5f9fa]">
+    <section className="py-20 pb-30 px-4 sm:px-6 lg:px-8 bg-[#f5f9fa]">
       <div className="pl-20 max-w-[1280px] mx-auto grid lg:grid-cols-2 gap-16 items-center">
         <div className="text-center lg:text-left">
           <h2 className="text-4xl sm:text-5xl lg:text-6xl text-[#0D2B3E] leading-tight tracking-tighter">
