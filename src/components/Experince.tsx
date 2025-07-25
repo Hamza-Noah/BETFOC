@@ -10,7 +10,7 @@ const Experince = () => {
   return (
     <>
        <section className="py-25 bg-[#f5f9fa] -mt-20 sm:py-24-50/70">
-            <div className="ml-20 p-20 rounded-2xl bg-white max-w-[1280px] mx-auto">
+            <div className="ml-20 p-20 rounded-2xl bg-white max-w-[1280px] mx-auto shadow-[10px_10px_20px_rgba(0,0,0,0.1)]">
                 <div className=" flex justify-between items-center">
                     <div>
                         <p className="text-[#278fa7] mb-2">FUTURE PAYMENT</p>
