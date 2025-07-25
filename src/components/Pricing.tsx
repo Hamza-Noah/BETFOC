@@ -20,6 +20,19 @@ const Pricing = () => {
                 </div>
             </div>
         </section> 
+    <section className="bg-[#0D2B3E] text-white mx-20 rounded-2xl px-4 sm:px-6 lg:px-8">
+  <div className="max-w-[1280px] mx-auto py-[96px] flex flex-col lg:flex-row justify-between items-center gap-6 lg:gap-0 text-center lg:text-left">
+    <h3 className="text-[48px] leading-[1.2] font-bold max-w-[600px]">
+      Ready to level up your payment process?
+    </h3>
+    <button className="bg-[#2A8E9E] text-white text-[18px] font-semibold py-[14px] px-[36px] rounded-[12px] hover:bg-[#247a8a] transition-all">
+      Get Started
+    </button>
+    <button className="text-white text-[18px] font-semibold py-[14px] px-[36px] rounded-[12px] transition-all">
+      Learn More
+    </button>
+  </div>
+</section>
     </>
   )
 }
