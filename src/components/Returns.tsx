@@ -1,4 +1,12 @@
-const StepCard = ({ number, title, description }) => (
+
+type StepCardProps = {
+  number: string;
+  title: string;
+  description: string;
+};
+
+
+const StepCard = ({ number, title, description }: StepCardProps) => (
   <div className="h-55 bg-white/5  p-6 pb-10 rounded-xl  shadow-sm">
     <div className="text-6xl mb-5  font-bold text-white/20">{number}</div>
     <h4 className="mt-2 text-2xl mb-4 font-semibold text-white">{title}</h4>
