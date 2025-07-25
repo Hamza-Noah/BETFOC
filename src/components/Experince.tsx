@@ -9,7 +9,7 @@ const IconWrapper = ({ children, className }) => (
 const Experince = () => {
   return (
     <>
-       <section className="py-25 bg-[#f5f9fa] -mt-20 sm:py-24-50/70 px-4 sm:px-6 lg:px-8">
+       <section className="py-25 bg-[#f5f9fa] -mt-20 sm:py-24-50/70">
             <div className="ml-20 p-20 rounded-2xl bg-white max-w-[1280px] mx-auto">
                 <div className=" flex justify-between items-center">
                     <div>
