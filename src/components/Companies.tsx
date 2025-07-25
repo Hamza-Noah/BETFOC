@@ -11,17 +11,17 @@ const Companies = () => {
             Handreds of all sizes and across all industries <br />
             here made a big improvments with us
           </p>
-          <div className="mt-16 flex justify-center gap-8">
+          <div className="mt-16 flex justify-center gap-15">
             <div>
-              <p className="text-5xl font-bold text-[#141627]">24%</p>
+              <p className="text-6xl  text-[#141627]">24%</p>
               <p className="mt-2 text-gray-500">Revenue business</p>
             </div>
             <div>
-              <p className="text-5xl font-bold text-[#141627]">180K</p>
+              <p className="text-6xl  text-[#141627]">180K</p>
               <p className="mt-2 text-gray-500">In annual revenue</p>
             </div>
             <div>
-              <p className="text-5xl font-bold text-[#141627]">10+</p>
+              <p className="text-6xl  text-[#141627]">10+</p>
               <p className="mt-2 text-gray-500">Months of runway</p>
             </div>
           </div>
