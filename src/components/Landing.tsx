@@ -37,7 +37,7 @@ const Landing = () => {
           </div>
 
           <div className="mt-10 flex flex-col sm:flex-row sm:items-center justify-center lg:justify-start gap-6">
-            <div className="flex items-center justify-center space-x-4">
+            <div className="flex gap-6 items-center justify-center space-x-4">
               <img
                 src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg"
                 alt="Stripe"
@@ -78,8 +78,8 @@ const Landing = () => {
               <p className="text-sm text-gray-500 mt-1">April 21 2024</p>
             </div>
 
-            <div className="space-y-4 mb-6 relative z-20">
-              <label className="flex items-center justify-between bg-gray-50 p-4 rounded-xl cursor-pointer peer-checked/credit:bg-blue-50 peer-checked/credit:ring-2 peer-checked/credit:ring-blue-500">
+            <div className="space-y-2 mb-6 relative z-20">
+              <label className="flex items-center justify-between bg-gray-50 p-4 rounded-xl cursor-pointer peer-checked/credit:bg-blue-50 border border-[#2a8e9e] peer-checked/credit:ring-2 peer-checked/credit:ring-blue-500">
                 <div className="flex items-center">
                   <div className="w-8 h-8 flex items-center justify-center rounded-lg bg-gray-200 mr-3">
                     <svg
