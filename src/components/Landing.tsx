@@ -107,7 +107,7 @@ const Landing = () => {
                 />
               </label>
 
-              <label className="flex items-center justify-between bg-gray-50 p-4 rounded-xl cursor-pointer peer-checked/bank:bg-blue-50 peer-checked/bank:ring-2 peer-checked/bank:ring-blue-500">
+              <label className="flex items-center border border-white justify-between bg-gray-50 p-4 rounded-xl cursor-pointer peer-checked/bank:bg-blue-50 peer-checked/bank:ring-2 peer-checked/bank:ring-blue-500">
                 <div className="flex items-center">
                   <div className="w-8 h-8 flex items-center justify-center rounded-lg bg-gray-200 mr-3">
                     <svg
